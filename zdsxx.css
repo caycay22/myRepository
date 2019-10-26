@@ -1,0 +1,10 @@
+body {
+background-color: blueviolet;
+}
+.func, .header{
+padding:20px;
+}
+
+.func{
+color: red;
+}
